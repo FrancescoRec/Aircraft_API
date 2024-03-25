@@ -1,5 +1,11 @@
 ## Aircraft API  :airplane:
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![postgressql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
 ### Overview
 
 The Aircraft API provides access to an aircraft database containing information about various aircraft types, including fuel consumption rates and other relevant data. The API supports basic CRUD operations for managing aircraft data.
@@ -42,4 +48,5 @@ The API is structured to support different levels of complexity, from a simple l
 ### Conclusion
 
 The Aircraft API provides a versatile platform for accessing and managing aircraft data, offering flexibility in deployment and scalability for handling large datasets. With its structured exercises, developers can gradually build upon the API, adding functionalities and integrating with various data sources as needed.
+
 
