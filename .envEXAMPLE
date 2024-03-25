@@ -1,0 +1,14 @@
+# # BDI
+# # ==========================================
+# DB_HOST=host.docker.internal
+# DB_DATABASE=postgres
+# DB_USERNAME=postgres
+# DB_PASSWORD=èpostgres1234
+# DB_PORT=5432
+
+
+# BDI_S3_BUCKET=bdi-api-name
+# BDI_S3_ACCESS_KEY_ID=AKIAT3Q5Q5Q5Q5Q5Q5Q5
+# BDI_S3_SECRET_ACCESS_KEY=5Q5Q5
+# BDI_S3_TOKEN=FJFEJENFJ
+
